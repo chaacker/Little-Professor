@@ -1,1 +1,5 @@
-# Little-Professor
+# Little Professor
+Little Professor was a handheld arithmatic game back in the in the late 70s-early 80s that quizzed the user on addition, subtraction, multiplication, and division. My code currently only allows for addition problems. The user is able to input their desired difficulty level on a scale from 1-3 with 3 being the highest difficulty. The difficulty level determines the number of digits for $`x`$ and $`y`$. My Little Professor gives the user ten problems and allows up to three attempts on a problem. If the problem is failed three times, it will display the correct answer. Each problem not answered correctly, at the end of three attempts, gets a point deducted.
+
+## Future plans
+I want to add to this code to allow the user to determine what arithmatic they want to carry out. I've only used an actual Little Professor when I was too young to understand multiplication and division, so I'll need to watch videos on how they set up the difficulty levels. I have another project that requires a bit more attention so stay tuned for an update.
